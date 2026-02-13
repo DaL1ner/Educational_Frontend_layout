@@ -36,6 +36,6 @@
 - [Validator W3C](https://validator.w3.org/)
 - [РыбаТекст](https://fish-text.ru/)
 ## Ссылки
-- [Публичная страница проекта на GitHub Pages](https://dal1ner.github.io/Educational_Frontend_layout/)
+- [Публичная страница проекта на GitHub Pages](https://dal1ner.github.io/First_educational_Frontend_project/)
 
 ![Alt Text](assets/img/qr-git-pages.jpg)
